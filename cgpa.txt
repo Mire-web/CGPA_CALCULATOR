@@ -1,0 +1,22 @@
+-----------------------------------
+Grade Point Average Calculator
+-----------------------------------
+GPA:
+
+Get input:
+	- No of courses
+	- grade and Credit unit for each course
+	- returns grade list, creditunit list
+
+Calculate total credit unit:
+	- list of credit units, takes in
+	- return a sum of the units, spits out
+
+Calculate total credit point:
+	- list of grades
+	- list of credit units
+	- return total grade point
+
+Calculate GPA:
+	- total grade point/credit unit
+	- total credit unit
