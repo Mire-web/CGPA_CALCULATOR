@@ -1,0 +1,7 @@
+Username=Mire
+Phone=08101567967
+Email=amahe8664@gmail.com
+University=None
+Department=None
+Current_Level=200
+Final_level=500

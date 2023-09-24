@@ -1,4 +1,4 @@
 import unittest
-import calc_gpa
+import cgpa
 
 def test_

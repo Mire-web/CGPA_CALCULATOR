@@ -7,6 +7,8 @@ TLU = Total Load Unit
 TCP = Total Credit Point
 """
 from functools import reduce
+from student import Student
+
 
 def main():
 	grade_list, course_unit_list = GetInput()
